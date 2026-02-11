@@ -1,6 +1,6 @@
-Soy un apasionado de la tecnología y el desarrollo de software, con interés en
-**programación, bases de datos y seguridad en la nube**. 
-Me encanta aprender nuevas herramientas y mejorar mis habilidades día a día.
+👋 Hola, soy Chaimae
+Soy **desarrolladora web en formación**, apasionada por la **programación, bases de datos y seguridad en la nube**. 
+Me encanta aprender nuevas herramientas, enfrentar desafíos tecnológicos y mejorar mis habilidades día a día.
 
 ##💻 Habilidades
 - **Lenguajes de programación:** Java, Python, SQL, PHP, JavaScript  
