@@ -1,16 +1,21 @@
-## Hi there 👋
+Soy un apasionado de la tecnología y el desarrollo de software, con interés en
+**programación, bases de datos y seguridad en la nube**. 
+Me encanta aprender nuevas herramientas y mejorar mis habilidades día a día.
 
-<!--
-**ChamaAz/ChamaAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Habilidades
+- Lenguajes: Java, Python, SQL
+- Desarrollo de aplicaciones: POO, sistemas de gestión, juegos
+- Bases de datos: MySQL, SQL avanzado
+- Seguridad en la nube: conceptos de riesgos, amenazas y buenas prácticas
 
-Here are some ideas to get you started:
+## 🚀 Proyectos destacados
+- **Juego "Hundir la Flota" en Java**: Implementación de IA, POO y manejo de coordenadas.
+- **Sistema de streaming en Java**: Gestión de servicios, login con archivos y control de excepciones.
+- **Consultas SQL NBA**: Análisis de datos de jugadores y equipos con consultas intermedias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Mis intereses
+- Innovación tecnológica y desarrollo de software
+- Seguridad informática y protección de datos
+- Aprender nuevas herramientas y lenguajes de programación
+
+¡Siempre abierto a colaborar y aprender de otros! 🌟
