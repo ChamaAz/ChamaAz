@@ -2,11 +2,16 @@ Soy un apasionado de la tecnología y el desarrollo de software, con interés en
 **programación, bases de datos y seguridad en la nube**. 
 Me encanta aprender nuevas herramientas y mejorar mis habilidades día a día.
 
-## 💻 Habilidades
-- Lenguajes: Java, Python, SQL
-- Desarrollo de aplicaciones: POO, sistemas de gestión, juegos
-- Bases de datos: MySQL, SQL avanzado
-- Seguridad en la nube: conceptos de riesgos, amenazas y buenas prácticas
+##💻 Habilidades
+- **Lenguajes de programación:** Java, Python, SQL, PHP, JavaScript  
+- **Frameworks y librerías:** Node.js, Vue.js, React  
+- **Bases de datos:** MySQL, phpMyAdmin, MongoDB, SQL avanzado 
+- **Desarrollo de aplicaciones:** Programación orientada a objetos (POO), sistemas de gestión, juegos, interfaces gráficas (GUI)  
+- **Seguridad en la nube:** Conceptos de riesgos, amenazas internas y externas, buenas prácticas, responsabilidad compartida, SLA  
+- **Cloud & DevOps:** AWS, despliegue de aplicaciones, integración continua  
+- **Control de versiones:** Git, GitHub  
+- **Herramientas de desarrollo:** IntelliJ, Eclipse, Visual Studio Code, Maven, NetBeans  
+- **Otras habilidades:** Análisis de datos, resolución de problemas, trabajo en equipo, documentación de proyectos
 
 ## 🚀 Proyectos destacados
 - **Juego "Hundir la Flota" en Java**: Implementación de IA, POO y manejo de coordenadas.
