@@ -1,26 +1,32 @@
-👋 Hola, soy Chaimae
-Soy **desarrolladora web en formación**, apasionada por la **programación, bases de datos y seguridad en la nube**. 
+# 👋 Hola, soy Chaimae
+
+Soy **desarrolladora web en formación**, apasionada por la **programación, bases de datos y seguridad en la nube**.  
 Me encanta aprender nuevas herramientas, enfrentar desafíos tecnológicos y mejorar mis habilidades día a día.
-
-##💻 Habilidades
-- **Lenguajes de programación:** Java, Python, SQL, PHP, JavaScript  
+---
+## 💻 Habilidades Técnicas
+- **Lenguajes de programación:** Java, Python, PHP, JavaScript  
 - **Frameworks y librerías:** Node.js, Vue.js, React  
-- **Bases de datos:** MySQL, phpMyAdmin, MongoDB, SQL avanzado 
-- **Desarrollo de aplicaciones:** Programación orientada a objetos (POO), sistemas de gestión, juegos, interfaces gráficas (GUI)  
-- **Seguridad en la nube:** Conceptos de riesgos, amenazas internas y externas, buenas prácticas, responsabilidad compartida, SLA  
-- **Cloud & DevOps:** AWS, despliegue de aplicaciones, integración continua  
-- **Control de versiones:** Git, GitHub  
+- **Bases de datos:** MySQL, phpMyAdmin, MongoDB, consultas avanzadas  
+- **Desarrollo web:** POO, sistemas de gestión, aplicaciones web completas, interfaces gráficas (GUI)  
+- **Seguridad y Cloud:** AWS (EC2, S3, Lambda), buenas prácticas de seguridad, despliegue e integración continua  
+- **Control de versiones:** Git, GitHub (repositorios, ramas, pull requests)  
 - **Herramientas de desarrollo:** IntelliJ, Eclipse, Visual Studio Code, Maven, NetBeans  
-- **Otras habilidades:** Análisis de datos, resolución de problemas, trabajo en equipo, documentación de proyectos
-
-## 🚀 Proyectos destacados
-- **Juego "Hundir la Flota" en Java**: Implementación de IA, POO y manejo de coordenadas.
-- **Sistema de streaming en Java**: Gestión de servicios, login con archivos y control de excepciones.
-- **Consultas SQL NBA**: Análisis de datos de jugadores y equipos con consultas intermedias.
-
-## 🎯 Mis intereses
-- Innovación tecnológica y desarrollo de software
-- Seguridad informática y protección de datos
-- Aprender nuevas herramientas y lenguajes de programación
-
-¡Siempre abierto a colaborar y aprender de otros! 🌟
+---
+## 🚀 Proyectos Destacados
+- **Juego "Hundir la Flota" (Java):** Implementación de IA, POO y manejo de coordenadas.  
+- **Sistema de streaming (Java):** Gestión de servicios, login con archivos y control de excepciones.  
+- **Consultas SQL NBA:** Análisis de datos de jugadores y equipos con consultas complejas.  
+- **Aplicaciones web full-stack:** Desarrollos usando Node.js, Vue.js, React y bases de datos relacionales y NoSQL.
+---
+## 🔗 Enlaces
+- [Portafolio](#)  
+- LinkedIn: www.linkedin.com/in/azougagh-chaimae-6583bb328 
+---
+## 🎨 Extras y Visualización
+- Puedes añadir **badges de tecnologías**:
+  - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+  - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+-  
