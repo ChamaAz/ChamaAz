@@ -14,8 +14,11 @@ Me encanta aprender nuevas herramientas, enfrentar desafíos tecnológicos y mej
 ---
 ## 🚀 Proyectos Destacados
 
-- **Juego "Hundir la Flota" (Java):** Implementación de IA, POO y manejo de coordenadas.  
-- **Sistema de streaming (Java):** Gestión de servicios, login con archivos y control de excepciones.  
+- **API REST Backend (Node.js + Express)**Desarrollo de una API RESTful con autenticación, gestión de usuarios y conexión a base de datos.
+  Implementación de rutas, controladores, middleware y manejo de errores.  
+- **Aplicación Frontend (React)**Aplicación web desarrollada en React que consume la API, con gestión de estado, componentes reutilizables y diseño responsive.
+- **Juego "Hundir la Flota":** Implementación de IA, POO y manejo de coordenadas.  
+- **Sistema de streaming:** Gestión de servicios, login con archivos y control de excepciones.  
 - **Consultas SQL NBA:** Análisis de datos de jugadores y equipos con consultas complejas.  
 - **Aplicaciones web full-stack:** Desarrollos usando Node.js, Vue.js, React y bases de datos relacionales y NoSQL.
 
