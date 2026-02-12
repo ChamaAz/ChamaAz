@@ -96,7 +96,8 @@ Desarrollo completo utilizando Node.js, Vue.js, React y bases de datos relaciona
 ---
 
 ## 🤝 Colaboraciones
-- Contribución en con funcionalidades de backend y corrección de bugs.
-- Participación en revisando pull requests y documentación.
+
+- Contribuciones en proyectos open source: implementación de funcionalidades de backend, corrección de bugs y optimización de código.  
+- Participación en revisión de pull requests, mejoras de documentación y soporte a otros colaboradores.  
 
 ⭐ Gracias por visitar mi perfil
