@@ -78,11 +78,12 @@ Desarrollo completo utilizando Node.js, Vue.js, React y bases de datos relaciona
 
 ---
 
-## 📊 Estadísticas GitHub
+## 🌍 Idiomas
 
-![Chaimae's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamaAz&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamaAz&layout=compact&theme=tokyonight)
+![Español](https://img.shields.io/badge/Español-Nativo-red?style=for-the-badge)
+![Francés](https://img.shields.io/badge/Francés-Nativo-blue?style=for-the-badge)
+![Inglés](https://img.shields.io/badge/Inglés-B2-green?style=for-the-badge)
+![Árabe](https://img.shields.io/badge/Árabe-Nativo-yellow?style=for-the-badge)
 
 ---
 
