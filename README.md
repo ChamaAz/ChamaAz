@@ -8,8 +8,8 @@ Me encanta aprender nuevas herramientas, enfrentar desafíos tecnológicos y mej
 - **Frameworks y librerías:** Node.js, Vue.js, React  
 - **Bases de datos:** MySQL, phpMyAdmin, MongoDB, consultas avanzadas  
 - **Desarrollo web:** POO, sistemas de gestión, aplicaciones web completas, interfaces gráficas (GUI)  
-- **Seguridad y Cloud:** AWS (EC2, S3, Lambda), buenas prácticas de seguridad, despliegue e integración continua  
-- **Control de versiones:** Git, GitHub (repositorios, ramas, pull requests)  
+- **Seguridad y Cloud:** AWS, buenas prácticas de seguridad, despliegue e integración continua  
+- **Control de versiones:** Git, GitHub   
 - **Herramientas de desarrollo:** IntelliJ, Eclipse, Visual Studio Code, Maven, NetBeans  
 ---
 ## 🚀 Proyectos Destacados
