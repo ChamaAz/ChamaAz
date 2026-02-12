@@ -95,4 +95,8 @@ Desarrollo completo utilizando Node.js, Vue.js, React y bases de datos relaciona
 
 ---
 
+## 🤝 Colaboraciones
+- Contribución en [Proyecto Open Source XYZ](https://github.com/usuario/proyecto) con funcionalidades de backend y corrección de bugs.
+- Participación en [Proyecto ABC](https://github.com/usuario/proyecto) revisando pull requests y documentación.
+
 ⭐ Gracias por visitar mi perfil
