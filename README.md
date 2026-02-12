@@ -43,6 +43,7 @@ Interesada en construir aplicaciones eficientes, seguras y escalables, aplicando
 
 - **Portafolio:** [Mi GitHub](https://github.com/ChamaAz)  
 - **LinkedIn:** [Chaimae Azougagh](https://www.linkedin.com/in/azougagh-chaimae-6583bb328)
+- **Instagram:** [@azougagh_chaimae](https://www.instagram.com/azougagh_chaimae/)
 
 ---
 
