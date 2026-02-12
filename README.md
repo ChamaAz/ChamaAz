@@ -12,11 +12,14 @@ Me encanta aprender nuevas herramientas, enfrentar desafíos tecnológicos y mej
 - **Control de versiones:** Git, GitHub   
 - **Herramientas de desarrollo:** IntelliJ, Eclipse, Visual Studio Code, Maven, NetBeans  
 ---
-## 🚀 Proyectos Destacados
-- **Juego "Hundir la Flota" (Java):** Implementación de IA, POO y manejo de coordenadas.  
-- **Sistema de streaming (Java):** Gestión de servicios, login con archivos y control de excepciones.  
-- **Consultas SQL NBA:** Análisis de datos de jugadores y equipos con consultas complejas.  
-- **Aplicaciones web full-stack:** Desarrollos usando Node.js, Vue.js, React y bases de datos relacionales y NoSQL.
+🚀 Proyectos Destacados
+Juego "Hundir la Flota" (Java): Implementación de IA, POO y manejo de coordenadas.
+Sistema de streaming (Java): Gestión de servicios, login con archivos y control de excepciones.
+Consultas SQL NBA: Análisis de datos de jugadores y equipos con consultas complejas.
+Aplicaciones web full-stack:
+API Frontend de catálogo de productos (React).
+API Backend (Node.js + Express) para gestión de productos.
+Integración con bases de datos relacionales y NoSQL.
 ---
 ## 🔗 Enlaces
 - **Portafolio:** [Mi GitHub](https://github.com/ChamaAz)  
