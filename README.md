@@ -11,9 +11,8 @@ Interesada en construir aplicaciones eficientes, seguras y escalables, aplicando
 - **Frameworks y librerías:** Node.js, Express.js, Vue.js, React  
 - **Bases de datos:** MySQL, MongoDB, phpMyAdmin, consultas SQL avanzadas  
 - **Desarrollo web:** Programación orientada a objetos (POO), arquitectura cliente-servidor, aplicaciones web completas y diseño responsive  
-- **Seguridad y Cloud:** AWS, buenas prácticas de seguridad, despliegue e integración continua  
-- **Control de versiones:** Git, GitHub  
-- **Herramientas de desarrollo:** IntelliJ IDEA, Eclipse, Visual Studio Code, Maven, NetBeans  
+- **Cloud y DevOps:** AWS, despliegue de aplicaciones web (frontend y backend), configuración de entornos.
+- **Conamientas de desarrollo:** IntelliJ IDEA, Eclipse, Visual Studio Code, Maven, NetBeans  
 
 ---
 
