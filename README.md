@@ -80,10 +80,10 @@ Desarrollo completo utilizando Node.js, Vue.js, React y bases de datos relaciona
 
 ## 🌍 Idiomas
 
-![Español](https://img.shields.io/badge/Español-Nativo-red?style=for-the-badge)
-![Francés](https://img.shields.io/badge/Francés-Nativo-blue?style=for-the-badge)
-![Inglés](https://img.shields.io/badge/Inglés-B2-green?style=for-the-badge)
-![Árabe](https://img.shields.io/badge/Árabe-Nativo-yellow?style=for-the-badge)
+- 🇪🇸 Español — Nativo
+- 🇫🇷 Francés — Nativo
+- 🇲🇦 Árabe — Nativo
+- 🇬🇧 Inglés — B2 (Intermedio alto, comunicación técnica)
 
 ---
 
