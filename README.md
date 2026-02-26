@@ -100,7 +100,5 @@ Desarrollo completo utilizando Node.js, Vue.js, React y bases de datos relaciona
 Repositorio compartido con mi compañera: [Epi-c](https://github.com/EXPOSAND/Epi-c.git)
 
 - Implementación de funcionalidades de backend, corrección de bugs y optimización de código.  
-- Participación en revisión de pull requests, mejoras de documentación y soporte a otros colaboradores.  
-- Colaboración en equipo con Andrea, compartiendo desarrollo de funcionalidades, revisión de código y documentación del proyecto.
 
 ⭐ ¡Gracias por visitar mi perfil!
