@@ -80,10 +80,10 @@ Desarrollo completo utilizando Node.js, Vue.js, React y bases de datos relaciona
 
 ## 🌍 Idiomas
 
-🇪🇸 Español — Nativo  
-🇫🇷 Francés — Nativo  
-🇲🇦 Árabe — Nativo  
-🇬🇧 Inglés — B2 (Intermedio alto, comunicación técnica)
+<img src="https://flagcdn.com/w20/es.png"> Español — Nativo  
+<img src="https://flagcdn.com/w20/fr.png"> Francés — Nativo  
+<img src="https://flagcdn.com/w20/ma.png"> Árabe — Nativo  
+<img src="https://flagcdn.com/w20/gb.png"> Inglés — B2
 
 ---
 
