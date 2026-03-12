@@ -80,10 +80,10 @@ Desarrollo completo utilizando Node.js, Vue.js, React y bases de datos relaciona
 
 ## 🌍 Idiomas
 
-- 🇪🇸 Español — Nativo
-- 🇫🇷 Francés — Nativo
-- 🇲🇦 Árabe — Nativo
-- 🇬🇧 Inglés — B2 (Intermedio alto, comunicación técnica)
+🇪🇸 Español — Nativo  
+🇫🇷 Francés — Nativo  
+🇲🇦 Árabe — Nativo  
+🇬🇧 Inglés — B2 (Intermedio alto, comunicación técnica)
 
 ---
 
