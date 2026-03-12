@@ -7,7 +7,7 @@ Apasionada por construir aplicaciones eficientes, seguras y escalables, aplicand
 
 ## 🚀 Sobre mí
 
-- 🎯 Enfocada en desarrollo backend y arquitectura de aplicaciones
+- 🎯 Enfocada en desarrollo Backend, Frontend y arquitectura de aplicaciones
 - ☁️ Interesada en entornos cloud y despliegue de aplicaciones
 - 📚 En constante aprendizaje de tecnologías modernas
 - 💡 Me gusta resolver problemas mediante soluciones estructuradas y eficientes
