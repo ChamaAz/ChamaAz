@@ -87,10 +87,10 @@ Desarrollo completo utilizando Node.js, Vue.js, React y bases de datos relaciona
 
 ---
 
-## 🔗 Conecta conmigo
+## 🔗 Redes
 
-- 💼 LinkedIn: https://www.linkedin.com/in/azougagh-chaimae-6583bb328
-- 📸 Instagram: https://www.instagram.com/azougagh_chaimae/
+- 💼 **LinkedIn:** [Chaimae Azougagh](https://www.linkedin.com/in/chaimae-azougagh-desarrolladora)  
+- 📸 **Instagram:** [@azougagh_chaimae](https://www.instagram.com/azougagh_chaimae/)
 
 ---
 
