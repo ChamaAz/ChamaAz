@@ -1,6 +1,8 @@
 # 👋 Hola, soy Chaimae
 
-Desarrolladora web full-stack con experiencia en el diseño, desarrollo e implementación de aplicaciones modernas. Especializada en bases de datos y entornos cloud, con un enfoque en la creación de soluciones escalables, seguras y eficientes. Comprometida con las buenas prácticas de desarrollo, la arquitectura limpia y la mejora continua.
+Desarrolladora web full-stack
+Diseño, desarrollo e implementación de aplicaciones modernas.
+Especializada en bases de datos y entornos cloud, con enfoque en soluciones escalables, seguras y eficientes. Comprometida con buenas prácticas de desarrollo, arquitectura limpia y mejora continua.
 ---
 
 ## 🚀 Sobre mí
